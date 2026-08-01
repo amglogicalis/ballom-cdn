@@ -1,10 +1,12 @@
-{
-  "products": [
-    {
-      "id": 3,
-      "name": "SuperWidget",
-      "price": 99.99
-    }
-  ],
-  "total": 1
-}
+[
+  {
+    "id": 101,
+    "name": "Antigravity Cloud Server",
+    "price": 49.99
+  },
+  {
+    "id": 102,
+    "name": "BALLOM Edge Router",
+    "price": 29.99
+  }
+]
