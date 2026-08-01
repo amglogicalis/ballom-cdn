@@ -1,15 +1,10 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Widget Pro",
-      "price": 29.99
-    },
-    {
-      "id": 2,
-      "name": "Gadget Plus",
-      "price": 49.99
+      "id": 3,
+      "name": "SuperWidget",
+      "price": 99.99
     }
   ],
-  "total": 2
+  "total": 1
 }
